@@ -1,0 +1,9 @@
+1.Reverse Coding Challenge — Parity + Digit Trap
+Sample Pairs
+Input: 6  → Output: 30  
+Input: 9  → Output: 90  
+Input: 12 → Output: 132  
+Input: 8  → Output: 56  
+Input: 15 → Output: 300
+Task: Figure out the hidden logic that maps input to output.
+ Hint: Odd/even classification is not the only step; digit-based operation is involved.
