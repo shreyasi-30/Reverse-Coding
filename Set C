@@ -1,0 +1,9 @@
+Reverse Coding Challenge — Factor Count Logic
+Sample Pairs
+Input: 6  → Output: 12  
+Input: 9  → Output: 6  
+Input: 10 → Output: 18  
+Input: 11 → Output: 121  
+Input: 12 → Output: 20
+Task: Something about number of factors / divisors is part of the rule.
+hint: Don’t ignore the prime number case.
