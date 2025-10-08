@@ -1,0 +1,10 @@
+. Reverse Coding Challenge — Digit Sum & Conditional Math
+Sample Pairs
+Input: 13 → Output: 169  
+Input: 7  → Output: 56  
+Input: 16 → Output: 88  
+Input: 22 → Output: 40  
+Input: 19 → Output: 72
+Task: There’s a digit sum or digit-based condition combined with squaring or multiplication.
+hint: Odd and even behave differently, but not the way you might expect.
+
