@@ -1,0 +1,9 @@
+Reverse Coding Challenge — Mixed Binary & Arithmetic
+Sample Pairs
+Input: 5  → Output: 20  
+Input: 7  → Output: 28  
+Input: 8  → Output: 6  
+Input: 10 → Output: 40  
+Input: 12 → Output: 5
+Task: The rule involves binary representation combined with arithmetic.
+hint: Look at 8 and 12 carefully — they’re the traps.
